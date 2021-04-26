@@ -1,0 +1,70 @@
+.menu{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.bodyimg{
+    color: white;
+}
+
+body{
+    margin: 0px;
+    background-image:url(https://nehitha15107.github.io/Pro-C50-My-origami-website-2/main2.jpg); 
+    background: size 600px;;
+}
+
+p{    
+    font-family:"Edwardian Script ITC";
+    font-style: italic;
+    color: white;
+    font-size: 70px;
+    text-align: center;
+}
+
+h3{
+    font-family:"Agency FB";
+    font-style: italic;
+    color: white;
+    font-size: 30px;
+    text-align: left;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    justify-content: space-evenly;
+
+    background-color: whitesmoke;
+    border: black;
+    border-radius: 50px;
+    }
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+
+.origami{
+    border-radius: 50px;
+    background-color: white;
+
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: "Calbiri";
+    font-style: italic;
+}
+
+.end{
+    display: flex;
+    justify-content: flex-end;
+}
+
